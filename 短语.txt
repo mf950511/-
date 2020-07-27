@@ -60,5 +60,6 @@ flow control
 pick up
 case sensitivity
 forward slash
+curly brace
 
 
