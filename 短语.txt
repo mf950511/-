@@ -61,5 +61,8 @@ pick up
 case sensitivity
 forward slash
 curly brace
+in order to
+be referred to
+be unable to
 
 
