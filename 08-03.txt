@@ -1,0 +1,10 @@
+twice
+likewise
+uppercase
+lowercase
+compact
+notation
+multiply
+accurate
+rounding
+sum

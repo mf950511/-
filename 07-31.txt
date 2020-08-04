@@ -22,7 +22,7 @@ superficial
 derivative
 scenario
 bear
-succint
+succinct
 automatical
 advisable
 sense
