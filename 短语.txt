@@ -78,3 +78,4 @@ as opposed to
 be made to
 each of
 carriage return
+share with
