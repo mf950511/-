@@ -1,0 +1,13 @@
+reversed
+operands
+relationship
+chain
+instanceof
+prototype
+sequentially
+produce
+prefix
+enumerable
+constructs
+native
+utilities
