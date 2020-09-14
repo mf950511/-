@@ -79,3 +79,5 @@ be made to
 each of
 carriage return
 share with
+other than that
+regular expression
