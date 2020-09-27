@@ -1,0 +1,10 @@
+nature
+atomic
+permit
+heap
+reflect
+incorrectly
+prove
+intact
+aid
+object-oriented
